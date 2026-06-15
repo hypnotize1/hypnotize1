@@ -43,7 +43,7 @@ A dedicated and results-driven Backend Developer passionate about building high-
 
 ### 🤝 Connect with Me
 * 💼 **LinkedIn:** [linkedin.com/in/mohammad-seyfi-6aa7772b7](https://linkedin.com/in/mohammad-seyfi-6aa7772b7)
-* 📧 **Email:** mohammad.seyfi.dev@gmail.com *(یا هر ایمیلی که دوست داری بقیه باهاش در ارتباط باشن)*
+* 📧 **Email:** mohammadseyfipc@gmail.com
 
 ---
 
