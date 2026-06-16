@@ -33,6 +33,9 @@ A dedicated and results-driven Backend Developer passionate about building high-
 * **[todo-api-express](https://github.com/hypnotize1/todo-api-express)**
     A secure RESTful API for managing tasks built with Node.js, Express, and Prisma, featuring Joi validation and full Swagger documentation.
 
+* **[sys-monitor-api](https://github.com/hypnotize1/sys-monitor-api)** A real-time system monitoring service built with Node.js and WebSockets.
+  * *Key Features:* Implemented a hybrid architecture combining RESTful routing for static OS data and Socket.IO for live CPU load streaming. Features custom global error handling and comprehensive JSDoc documentation.
+  * *Tech Stack:* TypeScript, Node.js, Express, Socket.IO.
 ---
 
 ### 📚 Current Focus & Continuous Learning
