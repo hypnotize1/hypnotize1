@@ -1,4 +1,4 @@
-# Hi there, I'm Mohammad Seyfi (hypnotize1) 👋
+# Hi there, I'm Mohammad Seyfi 👋
 ### Backend Developer | Node.js & TypeScript Specialist
 
 A dedicated and results-driven Backend Developer passionate about building high-performance, scalable RESTful APIs and robust server-side architectures. Experienced in containerization, database optimization, and implementing clean code principles.
